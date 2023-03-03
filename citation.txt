@@ -1,0 +1,9 @@
+@article{DBLP:journals/corr/abs-2111-14818,
+  author    = {Omri Avrahami and
+               Dani Lischinski and
+               Ohad Fried},
+  title     = {Blended Diffusion for Text-driven Editing of Natural Images},
+  journal   = {CoRR},
+  volume    = {abs/2111.14818},
+  year      = {2021}
+}
