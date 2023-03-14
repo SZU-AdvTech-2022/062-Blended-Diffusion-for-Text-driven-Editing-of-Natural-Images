@@ -1,0 +1,7 @@
+@article{REPO-063,
+    author = "Avrahami, Omri and Lischinski, Dani and Fried, Ohad",
+    journal = "CoRR",
+    title = "{Blended Diffusion for Text-driven Editing of Natural Images}",
+    volume = "abs/2111.14818",
+    year = "2021"
+}
