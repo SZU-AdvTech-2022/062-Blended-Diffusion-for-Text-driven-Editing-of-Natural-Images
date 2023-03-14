@@ -1,4 +1,4 @@
-@article{REPO-063,
+@article{REPO-062,
     author = "Avrahami, Omri and Lischinski, Dani and Fried, Ohad",
     journal = "CoRR",
     title = "{Blended Diffusion for Text-driven Editing of Natural Images}",
